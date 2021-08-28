@@ -166,6 +166,7 @@
     "yeast": "^0.1.2"
   },
   "scripts": {
+    "dev": "lite-server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
